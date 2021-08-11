@@ -8,6 +8,7 @@ a flutter app
 ```yaml
 provider:
   flutter_svg:
+  bloc:
   ```
 
 ## Getting Started
